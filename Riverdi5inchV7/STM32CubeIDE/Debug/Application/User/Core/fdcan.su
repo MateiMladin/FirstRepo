@@ -1,0 +1,3 @@
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/fdcan.c:46:6:MX_FDCAN1_Init	8	static
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/fdcan.c:116:6:HAL_FDCAN_MspInit	272	static
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/fdcan.c:160:6:HAL_FDCAN_MspDeInit	16	static

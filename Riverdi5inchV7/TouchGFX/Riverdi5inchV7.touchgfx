@@ -1,0 +1,494 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "Screen1",
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "MainPageBackground",
+            "Y": -6,
+            "Width": 800,
+            "Height": 480,
+            "RelativeFilename": "Background.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "HorLinePage1_1",
+            "X": 248,
+            "Y": 294,
+            "Width": 232,
+            "Height": 5,
+            "RelativeFilename": "smallLine.png"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textAreaSoC",
+            "X": 302,
+            "Y": 220,
+            "Width": 99,
+            "Height": 69,
+            "TextId": "__SingleUse_Z3QN",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_ATPD",
+              "UseBuffer": true,
+              "BufferSize": 4
+            }
+          },
+          {
+            "Type": "Image",
+            "Name": "indicatorsHolderR_img",
+            "X": 665,
+            "Width": 135,
+            "Height": 358,
+            "RelativeFilename": "indicatorHolderGray.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "indicatorsHolderL_img",
+            "Width": 135,
+            "Height": 358,
+            "RelativeFilename": "indicatorHolderGrayL.png"
+          },
+          {
+            "Type": "CustomContainerInstance",
+            "Name": "contSpiritLevel1",
+            "X": 480,
+            "Y": 47,
+            "Width": 168,
+            "Height": 209,
+            "CustomContainerDefinitionName": "contSpiritLevel"
+          },
+          {
+            "Type": "Image",
+            "Name": "DTCbox",
+            "X": 135,
+            "Y": -40,
+            "Width": 531,
+            "Height": 70,
+            "RelativeFilename": "DTCboxMid.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "BottomMenuIndicator",
+            "Y": 450,
+            "Width": 800,
+            "Height": 29,
+            "RelativeFilename": "MenuIndicator.png"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea2",
+            "X": 181,
+            "Y": -2,
+            "Width": 101,
+            "Height": 26,
+            "TextId": "__SingleUse_QD37",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea3",
+            "X": 364,
+            "Y": -2,
+            "Width": 72,
+            "Height": 26,
+            "TextId": "__SingleUse_ZMTZ",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea4",
+            "X": 555,
+            "Y": -2,
+            "Width": 58,
+            "Height": 26,
+            "TextId": "__SingleUse_753Y",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea5",
+            "X": 411,
+            "Y": 241,
+            "Width": 31,
+            "Height": 40,
+            "TextId": "__SingleUse_CFGC",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "CustomContainerInstance",
+            "Name": "contSocGauge1",
+            "X": 48,
+            "Y": 145,
+            "Width": 232,
+            "Height": 292,
+            "CustomContainerDefinitionName": "contSocGauge"
+          },
+          {
+            "Type": "Image",
+            "Name": "distressOff",
+            "X": 703,
+            "Y": 88,
+            "Width": 78,
+            "Height": 78,
+            "RelativeFilename": "DistressOff.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "distress",
+            "X": 703,
+            "Y": 88,
+            "Width": 78,
+            "Height": 78,
+            "RelativeFilename": "Distress.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "pltCapacityYellow",
+            "X": 679,
+            "Y": 7,
+            "Width": 116,
+            "Height": 72,
+            "RelativeFilename": "PltCapacityYellow70.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "drvOrientationOff",
+            "X": 704,
+            "Y": 271,
+            "Width": 78,
+            "Height": 78,
+            "RelativeFilename": "DrvOrientationOff.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "drvOrientation",
+            "X": 704,
+            "Y": 271,
+            "Width": 78,
+            "Height": 78,
+            "RelativeFilename": "DrvOrientation.png"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textAreaTimeLeft",
+            "X": 357,
+            "Y": 306,
+            "Width": 79,
+            "Height": 26,
+            "TextId": "__SingleUse_5RCA",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "Image",
+            "Name": "hourGlass",
+            "X": 321,
+            "Y": 304,
+            "Width": 20,
+            "Height": 28,
+            "RelativeFilename": "hourglass.png"
+          },
+          {
+            "Type": "CustomContainerInstance",
+            "Name": "contBatteryTemp1",
+            "X": 564,
+            "Y": 349,
+            "Width": 99,
+            "Height": 81,
+            "CustomContainerDefinitionName": "contBatteryTemp"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "chassisYtextArea",
+            "X": 305,
+            "Y": 403,
+            "Width": 164,
+            "Height": 26,
+            "TextId": "__SingleUse_KR6I",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_EP4T",
+              "UseBuffer": true,
+              "BufferSize": 4
+            },
+            "Wildcard2": {
+              "TextId": "__SingleUse_O6SU",
+              "UseBuffer": true,
+              "BufferSize": 3
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "chassisXtextArea",
+            "X": 305,
+            "Y": 369,
+            "Width": 190,
+            "Height": 26,
+            "TextId": "__SingleUse_0YE9",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_B9LY",
+              "UseBuffer": true,
+              "BufferSize": 4
+            },
+            "Wildcard2": {
+              "TextId": "__SingleUse_QG24",
+              "UseBuffer": true,
+              "BufferSize": 4
+            }
+          },
+          {
+            "Type": "AnimatedImage",
+            "Name": "platformLoadAnImg",
+            "X": 703,
+            "Y": 181,
+            "Width": 78,
+            "Height": 78,
+            "FileNameFirst": "OverloadOff.png",
+            "FileNameLast": "OverloadOn.png",
+            "UpdateTicksInterval": 2000,
+            "StartOnLoad": true,
+            "LoopEnabled": true
+          }
+        ],
+        "Interactions": []
+      }
+    ],
+    "CustomContainerDefinitions": [
+      {
+        "Name": "contBatteryTemp",
+        "Width": 99,
+        "Height": 81,
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "batteryTempSymbol",
+            "X": 34,
+            "Y": 16,
+            "Width": 65,
+            "Height": 65,
+            "RelativeFilename": "BatteryTempSymbol.png"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea2BatTemp",
+            "Width": 52,
+            "Height": 26,
+            "TextId": "__SingleUse_ES3N",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          }
+        ],
+        "Interactions": []
+      },
+      {
+        "Name": "contSocGauge",
+        "Width": 232,
+        "Height": 292,
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "HorLinePage1",
+            "Y": 287,
+            "Width": 232,
+            "Height": 5,
+            "RelativeFilename": "smallLine.png"
+          },
+          {
+            "Type": "ImageProgress",
+            "Name": "SoC_Gauge",
+            "X": 96,
+            "Y": 28,
+            "Width": 134,
+            "Height": 231,
+            "FileNameProgress": "batteryFill.png",
+            "AnchorAtZero": true,
+            "Direction": "Up",
+            "FileNameBackground": "batteryFillFrameOpac.png",
+            "IndicatorPositionWidth": 300,
+            "IndicatorPositionHeight": 296,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 50
+          },
+          {
+            "Type": "Image",
+            "Name": "SoCGaugeBackground",
+            "X": 96,
+            "Width": 136,
+            "Height": 275,
+            "RelativeFilename": "batteryFillFrame.png"
+          }
+        ],
+        "Interactions": []
+      },
+      {
+        "Name": "contSpiritLevel",
+        "Width": 168,
+        "Height": 209,
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "levelingFrameSL",
+            "Y": -1,
+            "Width": 168,
+            "Height": 210,
+            "RelativeFilename": "LevelingFrame.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "greenBackSL",
+            "X": 9,
+            "Y": 29,
+            "Width": 150,
+            "Height": 150,
+            "RelativeFilename": "greenBack.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "amberBackSL",
+            "X": 9,
+            "Y": 29,
+            "Width": 150,
+            "Height": 150,
+            "Visible": false,
+            "RelativeFilename": "amberBack.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "redDotSL",
+            "X": 75,
+            "Y": 95,
+            "Width": 18,
+            "Height": 18,
+            "RelativeFilename": "redDot.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "levelingTopFrameSL",
+            "X": 9,
+            "Y": 29,
+            "Width": 150,
+            "Height": 150,
+            "RelativeFilename": "topFrame.png"
+          },
+          {
+            "Type": "Image",
+            "Name": "topGlassSLimg",
+            "X": 9,
+            "Y": 29,
+            "Width": 150,
+            "Height": 150,
+            "RelativeFilename": "topGlass2.png"
+          }
+        ],
+        "Interactions": []
+      }
+    ],
+    "Name": "Riverdi5inchV7",
+    "Resolution": {
+      "Width": 800,
+      "Height": 480
+    },
+    "SelectedColorDepth": 24,
+    "StartupScreenName": "Screen1",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      24
+    ],
+    "AvailableLCDs": {
+      "24": "LCDGPU2D"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 800,
+        "Height": 480
+      }
+    ],
+    "PhysicalButtons": [],
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommandOverride": "make -f ../gcc/Makefile -j8",
+    "FlashTargetCommandOverride": "make -f ../gcc/Makefile flash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32U5",
+    "SubFamily": "STM32U599/5A9",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m33",
+    "ProjectFile": "../Riverdi_50STM32U599.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [
+      "GPU2D"
+    ],
+    "AdditionalFeatures": []
+  },
+  "Version": "4.22.0",
+  "CreatedBy": "4.22.0"
+}

@@ -1,0 +1,29 @@
+#ifndef MODELLISTENER_HPP
+#define MODELLISTENER_HPP
+
+#include <gui/model/Model.hpp>
+
+//#include <touchgfx/hal/Types.hpp>
+
+#ifndef SIMULATOR
+#include "fdcan.h"
+#endif
+
+class ModelListener
+{
+public:
+    ModelListener() : model(0) {}
+    
+    virtual ~ModelListener() {}
+
+    void bind(Model* m)
+    {
+        model = m;
+    }
+    virtual void updateCanValue(DataBase_t *dataBase){}
+
+protected:
+    Model* model;
+};
+
+#endif // MODELLISTENER_HPP

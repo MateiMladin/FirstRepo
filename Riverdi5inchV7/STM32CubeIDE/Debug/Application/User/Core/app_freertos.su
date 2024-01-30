@@ -1,0 +1,6 @@
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/app_freertos.c:94:6:vApplicationMallocFailedHook	4	static
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/app_freertos.c:110:6:vApplicationIdleHook	4	static
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/app_freertos.c:125:6:vApplicationStackOverflowHook	16	static
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/app_freertos.c:138:6:MX_FREERTOS_Init	8	static
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/app_freertos.c:182:6:StartDefaultTask	16	static
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/app_freertos.c:195:6:CallbackCanBusTimer80ms	16	static

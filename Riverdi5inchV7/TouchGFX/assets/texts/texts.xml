@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_O6SU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_QG24" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_EP4T" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_B9LY" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_0YE9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">chassisX &lt;value&gt;.&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_KR6I" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">chassisY &lt;value&gt;.&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_5RCA" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">9h 24m</Translation>
+      </Text>
+      <Text Id="__SingleUse_ES3N" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">12°C</Translation>
+      </Text>
+      <Text Id="__SingleUse_CFGC" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">%</Translation>
+      </Text>
+      <Text Id="__SingleUse_753Y" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">14 °C</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZMTZ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">0456 h</Translation>
+      </Text>
+      <Text Id="__SingleUse_QD37" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">03:44 AM</Translation>
+      </Text>
+      <Text Id="__SingleUse_ATPD" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">100</Translation>
+      </Text>
+      <Text Id="__SingleUse_Z3QN" Alignment="Right" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="arialbd.ttf" Size="23" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="!-~" />
+    <Typography Id="Large" Font="arialbd.ttf" Size="60" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="!-~" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="!-~" />
+    <Typography Id="Typography_00" Font="arialbd.ttf" Size="35" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

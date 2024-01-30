@@ -1,0 +1,6 @@
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/main.c:92:5:main	2
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/main.c:203:6:SystemClock_Config	4
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/main.c:276:6:PeriphCommonClock_Config	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/main.c:284:13:SystemPower_Config	2
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/main.c:330:6:HAL_TIM_PeriodElapsedCallback	2
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/main.c:347:6:Error_Handler	1

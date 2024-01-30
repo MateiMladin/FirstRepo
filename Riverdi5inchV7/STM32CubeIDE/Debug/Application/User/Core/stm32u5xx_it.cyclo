@@ -1,0 +1,12 @@
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:81:6:NMI_Handler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:96:6:HardFault_Handler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:111:6:MemManage_Handler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:126:6:BusFault_Handler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:141:6:UsageFault_Handler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:156:6:DebugMon_Handler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:176:6:EXTI6_IRQHandler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:190:6:FDCAN1_IT0_IRQHandler	10
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:251:6:TIM2_IRQHandler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:265:6:GPU2D_IRQHandler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:279:6:GPU2D_ER_IRQHandler	1
+C://TouchGFXProjects/Riverdi5inchV7/Core/Src/stm32u5xx_it.c:293:6:LTDC_IRQHandler	1

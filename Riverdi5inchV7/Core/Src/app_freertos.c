@@ -198,9 +198,9 @@ void CallbackCanBusTimer80ms(void *argument)
 
   /* USER CODE BEGIN CallbackCanBusTimer80ms */
 
-
 	if(dataBase.onOff==true) dataBase.onOff=false;
-	else dataBase.onOff=true;
+	
+else dataBase.onOff=true;
 
 
 //	pTxHeader1.Identifier=0x3C2;

@@ -1,5 +1,5 @@
 Application/User/generated/contSocGaugeBase.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/containers/contSocGaugeBase.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/containers/contSocGaugeBase.cpp \
  ../../TouchGFX/generated/gui_generated/include/gui_generated/containers/contSocGaugeBase.hpp \
  ../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp \
  ../../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp \

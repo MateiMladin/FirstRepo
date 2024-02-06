@@ -1,5 +1,5 @@
 Application/User/generated/GeneratedFont.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/fonts/src/GeneratedFont.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/fonts/src/GeneratedFont.cpp \
  ../../TouchGFX/generated/fonts/include/fonts/GeneratedFont.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/ConstFont.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp \

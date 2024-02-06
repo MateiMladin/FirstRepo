@@ -4537,7 +4537,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x425 ./Application/User/Core/sdmmc.o
  .debug_macro   0x0000000000000000       0x6a ./Application/User/Core/sdmmc.o
  .debug_line    0x0000000000000000      0xceb ./Application/User/Core/sdmmc.o
- .debug_str     0x0000000000000000   0x1b354e ./Application/User/Core/sdmmc.o
+ .debug_str     0x0000000000000000   0x1b3564 ./Application/User/Core/sdmmc.o
  .comment       0x0000000000000000       0x44 ./Application/User/Core/sdmmc.o
  .debug_frame   0x0000000000000000       0x78 ./Application/User/Core/sdmmc.o
  .ARM.attributes
@@ -9795,8 +9795,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x1df ./Application/User/generated/SVGDatabase.o
  .debug_macro   0x0000000000000000       0x99 ./Application/User/generated/SVGDatabase.o
  .debug_macro   0x0000000000000000       0x1c ./Application/User/generated/SVGDatabase.o
- .debug_line    0x0000000000000000      0x603 ./Application/User/generated/SVGDatabase.o
- .debug_str     0x0000000000000000     0x4fd8 ./Application/User/generated/SVGDatabase.o
+ .debug_line    0x0000000000000000      0x618 ./Application/User/generated/SVGDatabase.o
+ .debug_str     0x0000000000000000     0x5003 ./Application/User/generated/SVGDatabase.o
  .comment       0x0000000000000000       0x44 ./Application/User/generated/SVGDatabase.o
  .debug_frame   0x0000000000000000       0x50 ./Application/User/generated/SVGDatabase.o
  .ARM.attributes
@@ -10833,8 +10833,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x99 ./Application/User/generated/UnmappedDataFont.o
  .debug_macro   0x0000000000000000       0x1c ./Application/User/generated/UnmappedDataFont.o
  .debug_macro   0x0000000000000000       0x58 ./Application/User/generated/UnmappedDataFont.o
- .debug_line    0x0000000000000000      0x9ea ./Application/User/generated/UnmappedDataFont.o
- .debug_str     0x0000000000000000     0x667c ./Application/User/generated/UnmappedDataFont.o
+ .debug_line    0x0000000000000000      0x9ff ./Application/User/generated/UnmappedDataFont.o
+ .debug_str     0x0000000000000000     0x66a7 ./Application/User/generated/UnmappedDataFont.o
  .comment       0x0000000000000000       0x44 ./Application/User/generated/UnmappedDataFont.o
  .debug_frame   0x0000000000000000      0x31c ./Application/User/generated/UnmappedDataFont.o
  .ARM.attributes
@@ -14626,7 +14626,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc_ex.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc_ex.o
  .debug_line    0x0000000000000000     0x242e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc_ex.o
- .debug_str     0x0000000000000000   0x1b3f9e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc_ex.o
+ .debug_str     0x0000000000000000   0x1b3fb4 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc_ex.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc_ex.o
  .debug_frame   0x0000000000000000      0x820 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc_ex.o
  .ARM.attributes
@@ -17102,7 +17102,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma_ex.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma_ex.o
  .debug_line    0x0000000000000000     0x2bcd ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma_ex.o
- .debug_str     0x0000000000000000   0x1b3774 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma_ex.o
+ .debug_str     0x0000000000000000   0x1b378a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma_ex.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma_ex.o
  .debug_frame   0x0000000000000000      0x754 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma_ex.o
  .ARM.attributes
@@ -17316,7 +17316,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dsi.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dsi.o
  .debug_line    0x0000000000000000      0xc51 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dsi.o
- .debug_str     0x0000000000000000   0x1b2993 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dsi.o
+ .debug_str     0x0000000000000000   0x1b29a9 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dsi.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dsi.o
  .ARM.attributes
                 0x0000000000000000       0x3a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dsi.o
@@ -17553,7 +17553,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_exti.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_exti.o
  .debug_line    0x0000000000000000     0x109d ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_exti.o
- .debug_str     0x0000000000000000   0x1b2cfc ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_exti.o
+ .debug_str     0x0000000000000000   0x1b2d12 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_exti.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_exti.o
  .debug_frame   0x0000000000000000      0x1c4 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_exti.o
  .ARM.attributes
@@ -18089,7 +18089,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash.o
  .debug_line    0x0000000000000000      0xff1 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash.o
- .debug_str     0x0000000000000000   0x1b2ec3 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash.o
+ .debug_str     0x0000000000000000   0x1b2ed9 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash.o
  .debug_frame   0x0000000000000000      0x210 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash.o
  .ARM.attributes
@@ -18351,7 +18351,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash_ex.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash_ex.o
  .debug_line    0x0000000000000000     0x140e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash_ex.o
- .debug_str     0x0000000000000000   0x1b3110 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash_ex.o
+ .debug_str     0x0000000000000000   0x1b3126 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash_ex.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash_ex.o
  .debug_frame   0x0000000000000000      0x380 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_flash_ex.o
  .ARM.attributes
@@ -18999,7 +18999,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gtzc.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gtzc.o
  .debug_line    0x0000000000000000      0xc52 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gtzc.o
- .debug_str     0x0000000000000000   0x1b2994 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gtzc.o
+ .debug_str     0x0000000000000000   0x1b29aa ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gtzc.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gtzc.o
  .ARM.attributes
                 0x0000000000000000       0x3a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gtzc.o
@@ -19590,7 +19590,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash_ex.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash_ex.o
  .debug_line    0x0000000000000000      0xfc1 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash_ex.o
- .debug_str     0x0000000000000000   0x1b3456 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash_ex.o
+ .debug_str     0x0000000000000000   0x1b346c ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash_ex.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash_ex.o
  .debug_frame   0x0000000000000000      0x4d8 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash_ex.o
  .ARM.attributes
@@ -19864,7 +19864,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hcd.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hcd.o
  .debug_line    0x0000000000000000     0x19af ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hcd.o
- .debug_str     0x0000000000000000   0x1b3461 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hcd.o
+ .debug_str     0x0000000000000000   0x1b3477 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hcd.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hcd.o
  .debug_frame   0x0000000000000000      0x474 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hcd.o
  .ARM.attributes
@@ -21487,7 +21487,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc_ex.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc_ex.o
  .debug_line    0x0000000000000000      0xc55 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc_ex.o
- .debug_str     0x0000000000000000   0x1b2997 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc_ex.o
+ .debug_str     0x0000000000000000   0x1b29ad ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc_ex.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc_ex.o
  .ARM.attributes
                 0x0000000000000000       0x3a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc_ex.o
@@ -22346,7 +22346,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd.o
  .debug_line    0x0000000000000000     0x196e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd.o
- .debug_str     0x0000000000000000   0x1b365b ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd.o
+ .debug_str     0x0000000000000000   0x1b3671 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd.o
  .debug_frame   0x0000000000000000      0x594 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd.o
  .ARM.attributes
@@ -22580,7 +22580,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd_ex.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd_ex.o
  .debug_line    0x0000000000000000      0xe20 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd_ex.o
- .debug_str     0x0000000000000000   0x1b2ff9 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd_ex.o
+ .debug_str     0x0000000000000000   0x1b300f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd_ex.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd_ex.o
  .debug_frame   0x0000000000000000      0x174 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pcd_ex.o
  .ARM.attributes
@@ -24079,7 +24079,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng_ex.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng_ex.o
  .debug_line    0x0000000000000000      0xddb ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng_ex.o
- .debug_str     0x0000000000000000   0x1b2c12 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng_ex.o
+ .debug_str     0x0000000000000000   0x1b2c28 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng_ex.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng_ex.o
  .debug_frame   0x0000000000000000       0xa8 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng_ex.o
  .ARM.attributes
@@ -24971,7 +24971,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd.o
  .debug_line    0x0000000000000000     0x2463 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd.o
- .debug_str     0x0000000000000000   0x1b3834 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd.o
+ .debug_str     0x0000000000000000   0x1b384a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd.o
  .debug_frame   0x0000000000000000      0x620 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd.o
  .ARM.attributes
@@ -25205,7 +25205,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd_ex.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd_ex.o
  .debug_line    0x0000000000000000      0xeb7 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd_ex.o
- .debug_str     0x0000000000000000   0x1b3066 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd_ex.o
+ .debug_str     0x0000000000000000   0x1b307c ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd_ex.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd_ex.o
  .debug_frame   0x0000000000000000      0x154 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_sd_ex.o
  .ARM.attributes
@@ -27526,7 +27526,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_sdmmc.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_sdmmc.o
  .debug_line    0x0000000000000000     0x16d5 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_sdmmc.o
- .debug_str     0x0000000000000000   0x1b321e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_sdmmc.o
+ .debug_str     0x0000000000000000   0x1b3234 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_sdmmc.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_sdmmc.o
  .debug_frame   0x0000000000000000      0x858 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_sdmmc.o
  .ARM.attributes
@@ -27840,7 +27840,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x55f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_usb.o
  .debug_macro   0x0000000000000000      0x425 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_usb.o
  .debug_line    0x0000000000000000     0x2108 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_usb.o
- .debug_str     0x0000000000000000   0x1b3555 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_usb.o
+ .debug_str     0x0000000000000000   0x1b356b ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_usb.o
  .comment       0x0000000000000000       0x44 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_usb.o
  .debug_frame   0x0000000000000000      0x7c0 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_usb.o
  .ARM.attributes
@@ -28261,7 +28261,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x120 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/croutine.o
  .debug_macro   0x0000000000000000       0x49 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/croutine.o
  .debug_line    0x0000000000000000      0x57b ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/croutine.o
- .debug_str     0x0000000000000000     0x984b ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/croutine.o
+ .debug_str     0x0000000000000000     0x9861 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/croutine.o
  .comment       0x0000000000000000       0x44 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/croutine.o
  .ARM.attributes
                 0x0000000000000000       0x3a ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/croutine.o
@@ -28376,7 +28376,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x120 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/event_groups.o
  .debug_macro   0x0000000000000000       0x91 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/event_groups.o
  .debug_line    0x0000000000000000      0xb1c ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/event_groups.o
- .debug_str     0x0000000000000000     0xd370 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/event_groups.o
+ .debug_str     0x0000000000000000     0xd386 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/event_groups.o
  .comment       0x0000000000000000       0x44 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/event_groups.o
  .debug_frame   0x0000000000000000      0x238 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/event_groups.o
  .ARM.attributes
@@ -28775,7 +28775,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x120 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/stream_buffer.o
  .debug_macro   0x0000000000000000       0x18 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/stream_buffer.o
  .debug_line    0x0000000000000000      0xe73 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/stream_buffer.o
- .debug_str     0x0000000000000000     0xd41e ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/stream_buffer.o
+ .debug_str     0x0000000000000000     0xd434 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/stream_buffer.o
  .comment       0x0000000000000000       0x44 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/stream_buffer.o
  .debug_frame   0x0000000000000000      0x3bc ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/stream_buffer.o
  .ARM.attributes
@@ -38820,7 +38820,7 @@ LOAD C:/ST/STM32CubeIDE_1.8.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_macro   0x0000000000061ca5       0x97 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/timers.o
  .debug_macro   0x0000000000061d3c      0x1b3 ./Middlewares/RTOS2/CMSIS/RTOS2/Heap/Heap_4/heap_4.o
 
-.debug_line     0x0000000000000000    0x89864
+.debug_line     0x0000000000000000    0x89d11
  .debug_line    0x0000000000000000      0xdcd ./Application/User/Core/adc.o
  .debug_line    0x0000000000000dcd      0xe5a ./Application/User/Core/app_freertos.o
  .debug_line    0x0000000000001c27      0xc9d ./Application/User/Core/cordic.o
@@ -38860,395 +38860,395 @@ LOAD C:/ST/STM32CubeIDE_1.8.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_line    0x000000000001d952     0x2838 ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
  .debug_line    0x000000000002018a     0x2225 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
  .debug_line    0x00000000000223af     0x1076 ./Application/User/TouchGFX/target/generated/nema_hal.o
- .debug_line    0x0000000000023425      0x76d ./Application/User/generated/ApplicationFontProvider.o
- .debug_line    0x0000000000023b92      0x643 ./Application/User/generated/BitmapDatabase.o
- .debug_line    0x00000000000241d5      0x98b ./Application/User/generated/CachedFont.o
- .debug_line    0x0000000000024b60     0x12bc ./Application/User/generated/FontCache.o
- .debug_line    0x0000000000025e1c      0x58f ./Application/User/generated/Font_arialbd_23_4bpp_0.o
- .debug_line    0x00000000000263ab      0x58f ./Application/User/generated/Font_arialbd_35_4bpp_0.o
- .debug_line    0x000000000002693a      0x58f ./Application/User/generated/Font_arialbd_60_4bpp_0.o
- .debug_line    0x0000000000026ec9      0x58f ./Application/User/generated/Font_verdana_10_4bpp_0.o
- .debug_line    0x0000000000027458     0x2323 ./Application/User/generated/FrontendApplicationBase.o
- .debug_line    0x000000000002977b      0x8c6 ./Application/User/generated/GeneratedFont.o
- .debug_line    0x000000000002a041      0x5fe ./Application/User/generated/Kerning_arialbd_23_4bpp.o
- .debug_line    0x000000000002a63f      0x5fe ./Application/User/generated/Kerning_arialbd_35_4bpp.o
- .debug_line    0x000000000002ac3d      0x5fe ./Application/User/generated/Kerning_arialbd_60_4bpp.o
- .debug_line    0x000000000002b23b      0x5fe ./Application/User/generated/Kerning_verdana_10_4bpp.o
- .debug_line    0x000000000002b839      0x5d7 ./Application/User/generated/LanguageGb.o
- .debug_line    0x000000000002be10     0x2aff ./Application/User/generated/Screen1ViewBase.o
- .debug_line    0x000000000002e90f      0x70b ./Application/User/generated/Table_arialbd_23_4bpp.o
- .debug_line    0x000000000002f01a      0x709 ./Application/User/generated/Table_arialbd_35_4bpp.o
- .debug_line    0x000000000002f723      0x70b ./Application/User/generated/Table_arialbd_60_4bpp.o
- .debug_line    0x000000000002fe2e      0x70c ./Application/User/generated/Table_verdana_10_4bpp.o
- .debug_line    0x000000000003053a      0xed5 ./Application/User/generated/Texts.o
- .debug_line    0x000000000003140f      0x7a2 ./Application/User/generated/TypedTextDatabase.o
- .debug_line    0x0000000000031bb1     0x15d2 ./Application/User/generated/contBatteryTempBase.o
- .debug_line    0x0000000000033183     0x1595 ./Application/User/generated/contSocGaugeBase.o
- .debug_line    0x0000000000034718     0x145c ./Application/User/generated/contSpiritLevelBase.o
- .debug_line    0x0000000000035b74       0xc2 ./Application/User/generated/image_Background.o
- .debug_line    0x0000000000035c36       0xc9 ./Application/User/generated/image_BatteryTempSymbol.o
- .debug_line    0x0000000000035cff       0xc1 ./Application/User/generated/image_DTCboxMid.o
- .debug_line    0x0000000000035dc0       0xc0 ./Application/User/generated/image_Distress.o
- .debug_line    0x0000000000035e80       0xc3 ./Application/User/generated/image_DistressOff.o
- .debug_line    0x0000000000035f43       0xc6 ./Application/User/generated/image_DrvOrientation.o
- .debug_line    0x0000000000036009       0xc9 ./Application/User/generated/image_DrvOrientationOff.o
- .debug_line    0x00000000000360d2       0xc5 ./Application/User/generated/image_LevelingFrame.o
- .debug_line    0x0000000000036197       0xc5 ./Application/User/generated/image_MenuIndicator.o
- .debug_line    0x000000000003625c       0xc3 ./Application/User/generated/image_OverloadOff.o
- .debug_line    0x000000000003631f       0xc2 ./Application/User/generated/image_OverloadOn.o
- .debug_line    0x00000000000363e1       0xcb ./Application/User/generated/image_PltCapacityYellow70.o
- .debug_line    0x00000000000364ac       0xc1 ./Application/User/generated/image_amberBack.o
- .debug_line    0x000000000003656d       0xc3 ./Application/User/generated/image_batteryFill.o
- .debug_line    0x0000000000036630       0xc8 ./Application/User/generated/image_batteryFillFrame.o
- .debug_line    0x00000000000366f8       0xcc ./Application/User/generated/image_batteryFillFrameOpac.o
- .debug_line    0x00000000000367c4       0xc1 ./Application/User/generated/image_greenBack.o
- .debug_line    0x0000000000036885       0xc4 ./Application/User/generated/image_hazardSymbol.o
- .debug_line    0x0000000000036949       0xc1 ./Application/User/generated/image_hourglass.o
- .debug_line    0x0000000000036a0a       0xcb ./Application/User/generated/image_indicatorHolderGray.o
- .debug_line    0x0000000000036ad5       0xcc ./Application/User/generated/image_indicatorHolderGrayL.o
- .debug_line    0x0000000000036ba1       0xbe ./Application/User/generated/image_redDot.o
- .debug_line    0x0000000000036c5f       0xc1 ./Application/User/generated/image_smallLine.o
- .debug_line    0x0000000000036d20       0xc0 ./Application/User/generated/image_topFrame.o
- .debug_line    0x0000000000036de0       0xc1 ./Application/User/generated/image_topGlass2.o
- .debug_line    0x0000000000036ea1     0x1261 ./Application/User/gui/FrontendApplication.o
- .debug_line    0x0000000000038102     0x11b6 ./Application/User/gui/Model.o
- .debug_line    0x00000000000392b8     0x1ce9 ./Application/User/gui/Screen1Presenter.o
- .debug_line    0x000000000003afa1     0x1dcc ./Application/User/gui/Screen1View.o
- .debug_line    0x000000000003cd6d     0x11a8 ./Application/User/gui/contBatteryTemp.o
- .debug_line    0x000000000003df15     0x1257 ./Application/User/gui/contSocGauge.o
- .debug_line    0x000000000003f16c     0x126c ./Application/User/gui/contSpiritLevel.o
- .debug_line    0x00000000000403d8     0x229d ./Drivers/BSP/Components/mx25lm51245g/mx25lm51245g.o
- .debug_line    0x0000000000042675      0xd54 ./Drivers/CMSIS/system_stm32u5xx.o
- .debug_line    0x00000000000433c9     0x1156 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal.o
- .debug_line    0x000000000004451f     0x2f28 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc.o
- .debug_line    0x0000000000047447     0x110a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_cordic.o
- .debug_line    0x0000000000048551     0x1263 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_cortex.o
- .debug_line    0x00000000000497b4      0xf9c ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_crc.o
- .debug_line    0x000000000004a750      0xd18 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_crc_ex.o
- .debug_line    0x000000000004b468     0x1333 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dac.o
- .debug_line    0x000000000004c79b     0x1289 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dac_ex.o
- .debug_line    0x000000000004da24     0x1276 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dcache.o
- .debug_line    0x000000000004ec9a     0x1686 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma.o
- .debug_line    0x0000000000050320     0x174a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma2d.o
- .debug_line    0x0000000000051a6a     0x1de1 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_fdcan.o
- .debug_line    0x000000000005384b     0x11cc ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gpio.o
- .debug_line    0x0000000000054a17      0xdfa ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gpu2d.o
- .debug_line    0x0000000000055811     0x22ae ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash.o
- .debug_line    0x0000000000057abf     0x40de ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_i2c.o
- .debug_line    0x000000000005bb9d      0xfa4 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_i2c_ex.o
- .debug_line    0x000000000005cb41      0xf46 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_icache.o
- .debug_line    0x000000000005da87     0x21c6 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_lptim.o
- .debug_line    0x000000000005fc4d     0x1c76 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc.o
- .debug_line    0x00000000000618c3     0x25c3 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_mdf.o
- .debug_line    0x0000000000063e86     0x1fce ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ospi.o
- .debug_line    0x0000000000065e54      0xee7 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pwr.o
- .debug_line    0x0000000000066d3b     0x16f2 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pwr_ex.o
- .debug_line    0x000000000006842d     0x199f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rcc.o
- .debug_line    0x0000000000069dcc     0x29d2 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rcc_ex.o
- .debug_line    0x000000000006c79e      0xf8c ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng.o
- .debug_line    0x000000000006d72a     0x14ea ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rtc.o
- .debug_line    0x000000000006ec14     0x1f02 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rtc_ex.o
- .debug_line    0x0000000000070b16     0x2672 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_spi.o
- .debug_line    0x0000000000073188      0xe7e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_spi_ex.o
- .debug_line    0x0000000000074006     0x497d ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_tim.o
- .debug_line    0x0000000000078983     0x278d ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_tim_ex.o
- .debug_line    0x000000000007b110     0x40a9 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_uart.o
- .debug_line    0x000000000007f1b9     0x13d5 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_uart_ex.o
- .debug_line    0x000000000008058e      0xd45 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_dlyb.o
- .debug_line    0x00000000000812d3     0x2667 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/cmsis_os2.o
- .debug_line    0x000000000008393a      0x7ce ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/list.o
- .debug_line    0x0000000000084108      0x7c0 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/port.o
- .debug_line    0x00000000000848c8      0x674 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/portasm.o
- .debug_line    0x0000000000084f3c     0x158b ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/queue.o
- .debug_line    0x00000000000864c7     0x1cc9 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/tasks.o
- .debug_line    0x0000000000088190      0xcec ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/timers.o
- .debug_line    0x0000000000088e7c      0x9e8 ./Middlewares/RTOS2/CMSIS/RTOS2/Heap/Heap_4/heap_4.o
+ .debug_line    0x0000000000023425      0x782 ./Application/User/generated/ApplicationFontProvider.o
+ .debug_line    0x0000000000023ba7      0x658 ./Application/User/generated/BitmapDatabase.o
+ .debug_line    0x00000000000241ff      0x9a0 ./Application/User/generated/CachedFont.o
+ .debug_line    0x0000000000024b9f     0x12d1 ./Application/User/generated/FontCache.o
+ .debug_line    0x0000000000025e70      0x5a4 ./Application/User/generated/Font_arialbd_23_4bpp_0.o
+ .debug_line    0x0000000000026414      0x5a4 ./Application/User/generated/Font_arialbd_35_4bpp_0.o
+ .debug_line    0x00000000000269b8      0x5a4 ./Application/User/generated/Font_arialbd_60_4bpp_0.o
+ .debug_line    0x0000000000026f5c      0x5a4 ./Application/User/generated/Font_verdana_10_4bpp_0.o
+ .debug_line    0x0000000000027500     0x2338 ./Application/User/generated/FrontendApplicationBase.o
+ .debug_line    0x0000000000029838      0x8db ./Application/User/generated/GeneratedFont.o
+ .debug_line    0x000000000002a113      0x613 ./Application/User/generated/Kerning_arialbd_23_4bpp.o
+ .debug_line    0x000000000002a726      0x613 ./Application/User/generated/Kerning_arialbd_35_4bpp.o
+ .debug_line    0x000000000002ad39      0x613 ./Application/User/generated/Kerning_arialbd_60_4bpp.o
+ .debug_line    0x000000000002b34c      0x613 ./Application/User/generated/Kerning_verdana_10_4bpp.o
+ .debug_line    0x000000000002b95f      0x5ec ./Application/User/generated/LanguageGb.o
+ .debug_line    0x000000000002bf4b     0x2b14 ./Application/User/generated/Screen1ViewBase.o
+ .debug_line    0x000000000002ea5f      0x720 ./Application/User/generated/Table_arialbd_23_4bpp.o
+ .debug_line    0x000000000002f17f      0x71e ./Application/User/generated/Table_arialbd_35_4bpp.o
+ .debug_line    0x000000000002f89d      0x720 ./Application/User/generated/Table_arialbd_60_4bpp.o
+ .debug_line    0x000000000002ffbd      0x721 ./Application/User/generated/Table_verdana_10_4bpp.o
+ .debug_line    0x00000000000306de      0xeea ./Application/User/generated/Texts.o
+ .debug_line    0x00000000000315c8      0x7b7 ./Application/User/generated/TypedTextDatabase.o
+ .debug_line    0x0000000000031d7f     0x15e7 ./Application/User/generated/contBatteryTempBase.o
+ .debug_line    0x0000000000033366     0x15aa ./Application/User/generated/contSocGaugeBase.o
+ .debug_line    0x0000000000034910     0x1471 ./Application/User/generated/contSpiritLevelBase.o
+ .debug_line    0x0000000000035d81       0xd7 ./Application/User/generated/image_Background.o
+ .debug_line    0x0000000000035e58       0xde ./Application/User/generated/image_BatteryTempSymbol.o
+ .debug_line    0x0000000000035f36       0xd6 ./Application/User/generated/image_DTCboxMid.o
+ .debug_line    0x000000000003600c       0xd5 ./Application/User/generated/image_Distress.o
+ .debug_line    0x00000000000360e1       0xd8 ./Application/User/generated/image_DistressOff.o
+ .debug_line    0x00000000000361b9       0xdb ./Application/User/generated/image_DrvOrientation.o
+ .debug_line    0x0000000000036294       0xde ./Application/User/generated/image_DrvOrientationOff.o
+ .debug_line    0x0000000000036372       0xda ./Application/User/generated/image_LevelingFrame.o
+ .debug_line    0x000000000003644c       0xda ./Application/User/generated/image_MenuIndicator.o
+ .debug_line    0x0000000000036526       0xd8 ./Application/User/generated/image_OverloadOff.o
+ .debug_line    0x00000000000365fe       0xd7 ./Application/User/generated/image_OverloadOn.o
+ .debug_line    0x00000000000366d5       0xe0 ./Application/User/generated/image_PltCapacityYellow70.o
+ .debug_line    0x00000000000367b5       0xd6 ./Application/User/generated/image_amberBack.o
+ .debug_line    0x000000000003688b       0xd8 ./Application/User/generated/image_batteryFill.o
+ .debug_line    0x0000000000036963       0xdd ./Application/User/generated/image_batteryFillFrame.o
+ .debug_line    0x0000000000036a40       0xe1 ./Application/User/generated/image_batteryFillFrameOpac.o
+ .debug_line    0x0000000000036b21       0xd6 ./Application/User/generated/image_greenBack.o
+ .debug_line    0x0000000000036bf7       0xd9 ./Application/User/generated/image_hazardSymbol.o
+ .debug_line    0x0000000000036cd0       0xd6 ./Application/User/generated/image_hourglass.o
+ .debug_line    0x0000000000036da6       0xe0 ./Application/User/generated/image_indicatorHolderGray.o
+ .debug_line    0x0000000000036e86       0xe1 ./Application/User/generated/image_indicatorHolderGrayL.o
+ .debug_line    0x0000000000036f67       0xd3 ./Application/User/generated/image_redDot.o
+ .debug_line    0x000000000003703a       0xd6 ./Application/User/generated/image_smallLine.o
+ .debug_line    0x0000000000037110       0xd5 ./Application/User/generated/image_topFrame.o
+ .debug_line    0x00000000000371e5       0xd6 ./Application/User/generated/image_topGlass2.o
+ .debug_line    0x00000000000372bb     0x1276 ./Application/User/gui/FrontendApplication.o
+ .debug_line    0x0000000000038531     0x11cb ./Application/User/gui/Model.o
+ .debug_line    0x00000000000396fc     0x1cfe ./Application/User/gui/Screen1Presenter.o
+ .debug_line    0x000000000003b3fa     0x1de1 ./Application/User/gui/Screen1View.o
+ .debug_line    0x000000000003d1db     0x11bd ./Application/User/gui/contBatteryTemp.o
+ .debug_line    0x000000000003e398     0x126c ./Application/User/gui/contSocGauge.o
+ .debug_line    0x000000000003f604     0x1281 ./Application/User/gui/contSpiritLevel.o
+ .debug_line    0x0000000000040885     0x229d ./Drivers/BSP/Components/mx25lm51245g/mx25lm51245g.o
+ .debug_line    0x0000000000042b22      0xd54 ./Drivers/CMSIS/system_stm32u5xx.o
+ .debug_line    0x0000000000043876     0x1156 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal.o
+ .debug_line    0x00000000000449cc     0x2f28 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc.o
+ .debug_line    0x00000000000478f4     0x110a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_cordic.o
+ .debug_line    0x00000000000489fe     0x1263 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_cortex.o
+ .debug_line    0x0000000000049c61      0xf9c ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_crc.o
+ .debug_line    0x000000000004abfd      0xd18 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_crc_ex.o
+ .debug_line    0x000000000004b915     0x1333 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dac.o
+ .debug_line    0x000000000004cc48     0x1289 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dac_ex.o
+ .debug_line    0x000000000004ded1     0x1276 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dcache.o
+ .debug_line    0x000000000004f147     0x1686 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma.o
+ .debug_line    0x00000000000507cd     0x174a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma2d.o
+ .debug_line    0x0000000000051f17     0x1de1 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_fdcan.o
+ .debug_line    0x0000000000053cf8     0x11cc ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gpio.o
+ .debug_line    0x0000000000054ec4      0xdfa ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gpu2d.o
+ .debug_line    0x0000000000055cbe     0x22ae ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash.o
+ .debug_line    0x0000000000057f6c     0x40de ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_i2c.o
+ .debug_line    0x000000000005c04a      0xfa4 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_i2c_ex.o
+ .debug_line    0x000000000005cfee      0xf46 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_icache.o
+ .debug_line    0x000000000005df34     0x21c6 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_lptim.o
+ .debug_line    0x00000000000600fa     0x1c76 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc.o
+ .debug_line    0x0000000000061d70     0x25c3 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_mdf.o
+ .debug_line    0x0000000000064333     0x1fce ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ospi.o
+ .debug_line    0x0000000000066301      0xee7 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pwr.o
+ .debug_line    0x00000000000671e8     0x16f2 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pwr_ex.o
+ .debug_line    0x00000000000688da     0x199f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rcc.o
+ .debug_line    0x000000000006a279     0x29d2 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rcc_ex.o
+ .debug_line    0x000000000006cc4b      0xf8c ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng.o
+ .debug_line    0x000000000006dbd7     0x14ea ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rtc.o
+ .debug_line    0x000000000006f0c1     0x1f02 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rtc_ex.o
+ .debug_line    0x0000000000070fc3     0x2672 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_spi.o
+ .debug_line    0x0000000000073635      0xe7e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_spi_ex.o
+ .debug_line    0x00000000000744b3     0x497d ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_tim.o
+ .debug_line    0x0000000000078e30     0x278d ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_tim_ex.o
+ .debug_line    0x000000000007b5bd     0x40a9 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_uart.o
+ .debug_line    0x000000000007f666     0x13d5 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_uart_ex.o
+ .debug_line    0x0000000000080a3b      0xd45 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_dlyb.o
+ .debug_line    0x0000000000081780     0x2667 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/cmsis_os2.o
+ .debug_line    0x0000000000083de7      0x7ce ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/list.o
+ .debug_line    0x00000000000845b5      0x7c0 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/port.o
+ .debug_line    0x0000000000084d75      0x674 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/portasm.o
+ .debug_line    0x00000000000853e9     0x158b ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/queue.o
+ .debug_line    0x0000000000086974     0x1cc9 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/tasks.o
+ .debug_line    0x000000000008863d      0xcec ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/timers.o
+ .debug_line    0x0000000000089329      0x9e8 ./Middlewares/RTOS2/CMSIS/RTOS2/Heap/Heap_4/heap_4.o
 
-.debug_str      0x0000000000000000   0x1f2d93
- .debug_str     0x0000000000000000   0x1b2746 ./Application/User/Core/adc.o
-                                     0x1b3a61 (size before relaxing)
- .debug_str     0x00000000001b2746     0x5aca ./Application/User/Core/app_freertos.o
-                                     0x1b8610 (size before relaxing)
- .debug_str     0x00000000001b8210      0x183 ./Application/User/Core/cordic.o
-                                     0x1b32a5 (size before relaxing)
- .debug_str     0x00000000001b8393      0x1cd ./Application/User/Core/crc.o
-                                     0x1b2fa2 (size before relaxing)
- .debug_str     0x00000000001b8560      0x35a ./Application/User/Core/dac.o
-                                     0x1b391a (size before relaxing)
- .debug_str     0x00000000001b88ba      0x1d4 ./Application/User/Core/dcache.o
-                                     0x1b3011 (size before relaxing)
- .debug_str     0x00000000001b8a8e      0x267 ./Application/User/Core/dma2d.o
-                                     0x1b3094 (size before relaxing)
- .debug_str     0x00000000001b8cf5      0xc52 ./Application/User/Core/fdcan.o
-                                     0x1b3f81 (size before relaxing)
- .debug_str     0x00000000001b9947       0x7b ./Application/User/Core/gpio.o
-                                     0x1b362d (size before relaxing)
- .debug_str     0x00000000001b99c2      0x140 ./Application/User/Core/gpu2d.o
-                                     0x1b36ef (size before relaxing)
- .debug_str     0x00000000001b9b02      0x2cd ./Application/User/Core/hash.o
-                                     0x1b3420 (size before relaxing)
- .debug_str     0x00000000001b9dcf      0x2e6 ./Application/User/Core/i2c.o
-                                     0x1b393c (size before relaxing)
- .debug_str     0x00000000001ba0b5       0x88 ./Application/User/Core/icache.o
-                                     0x1b2bd1 (size before relaxing)
- .debug_str     0x00000000001ba13d      0x2f2 ./Application/User/Core/lptim.o
-                                     0x1b38fb (size before relaxing)
- .debug_str     0x00000000001ba42f      0x263 ./Application/User/Core/ltdc.o
-                                     0x1b3d49 (size before relaxing)
- .debug_str     0x00000000001ba692      0x75b ./Application/User/Core/main.o
-                                     0x1b3e07 (size before relaxing)
- .debug_str     0x00000000001baded      0x437 ./Application/User/Core/mdf.o
-                                     0x1b3aa3 (size before relaxing)
- .debug_str     0x00000000001bb224     0x1c50 ./Application/User/Core/octospi.o
-                                     0x1b52ae (size before relaxing)
- .debug_str     0x00000000001bce74      0x132 ./Application/User/Core/rng.o
-                                     0x1b3316 (size before relaxing)
- .debug_str     0x00000000001bcfa6      0x3e6 ./Application/User/Core/rtc.o
-                                     0x1b3694 (size before relaxing)
- .debug_str     0x00000000001bd38c      0x34f ./Application/User/Core/spi.o
-                                     0x1b39a2 (size before relaxing)
- .debug_str     0x00000000001bd6db       0x62 ./Application/User/Core/stm32u5xx_hal_msp.o
-                                     0x1b355e (size before relaxing)
- .debug_str     0x00000000001bd73d      0x118 ./Application/User/Core/stm32u5xx_hal_timebase_tim.o
-                                     0x1b3bc4 (size before relaxing)
- .debug_str     0x00000000001bd855      0x1ae ./Application/User/Core/stm32u5xx_it.o
-                                     0x1b3b19 (size before relaxing)
- .debug_str     0x00000000001bda03     0x25b4 ./Application/User/Core/syscalls.o
-                                       0x98d0 (size before relaxing)
- .debug_str     0x00000000001bffb7       0x78 ./Application/User/Core/sysmem.o
-                                       0x6087 (size before relaxing)
- .debug_str     0x00000000001c002f      0x477 ./Application/User/Core/tim.o
-                                     0x1b3a3c (size before relaxing)
- .debug_str     0x00000000001c04a6      0x2a4 ./Application/User/Core/usart.o
-                                     0x1b394d (size before relaxing)
- .debug_str     0x00000000001c074a       0x37 ./Application/User/Core/usb_otg.o
-                                     0x1b2b4c (size before relaxing)
- .debug_str     0x00000000001c0781       0x41 ./Application/User/Startup/startup_stm32u599njhxq.o
-                                         0x77 (size before relaxing)
- .debug_str     0x00000000001c07c2       0x80 ./Application/User/TouchGFX/App/app_touchgfx.o
-                                       0x2ea6 (size before relaxing)
- .debug_str     0x00000000001c0842     0x3935 ./Application/User/TouchGFX/target/STM32TouchController.o
-                                     0x1b72c2 (size before relaxing)
- .debug_str     0x00000000001c4177      0x157 ./Application/User/TouchGFX/target/TouchGFXGPIO.o
-                                     0x1b595d (size before relaxing)
- .debug_str     0x00000000001c42ce     0x8fd2 ./Application/User/TouchGFX/target/TouchGFXHAL.o
-                                      0x13f7f (size before relaxing)
- .debug_str     0x00000000001cd2a0      0x469 ./Application/User/TouchGFX/target/generated/OSWrappers.o
-                                       0x97f3 (size before relaxing)
- .debug_str     0x00000000001cd709      0x7fb ./Application/User/TouchGFX/target/generated/STM32DMA.o
-                                     0x1c03f3 (size before relaxing)
- .debug_str     0x00000000001cdf04     0x6a2d ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
-                                     0x1c754c (size before relaxing)
- .debug_str     0x00000000001d4931      0x241 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
-                                     0x1c368f (size before relaxing)
- .debug_str     0x00000000001d4b72      0x88e ./Application/User/TouchGFX/target/generated/nema_hal.o
-                                     0x1b50c8 (size before relaxing)
- .debug_str     0x00000000001d5400       0xc7 ./Application/User/generated/ApplicationFontProvider.o
-                                       0x609f (size before relaxing)
- .debug_str     0x00000000001d54c7      0x249 ./Application/User/generated/BitmapDatabase.o
-                                       0x62a7 (size before relaxing)
- .debug_str     0x00000000001d5710      0xf6b ./Application/User/generated/CachedFont.o
-                                       0x711d (size before relaxing)
- .debug_str     0x00000000001d667b      0x5d9 ./Application/User/generated/FontCache.o
-                                       0xd339 (size before relaxing)
- .debug_str     0x00000000001d6c54       0x77 ./Application/User/generated/Font_arialbd_23_4bpp_0.o
-                                       0x4d44 (size before relaxing)
- .debug_str     0x00000000001d6ccb       0x77 ./Application/User/generated/Font_arialbd_35_4bpp_0.o
-                                       0x4d44 (size before relaxing)
- .debug_str     0x00000000001d6d42       0x77 ./Application/User/generated/Font_arialbd_60_4bpp_0.o
-                                       0x4d44 (size before relaxing)
- .debug_str     0x00000000001d6db9       0x77 ./Application/User/generated/Font_verdana_10_4bpp_0.o
-                                       0x4d44 (size before relaxing)
- .debug_str     0x00000000001d6e30     0x3184 ./Application/User/generated/FrontendApplicationBase.o
-                                     0x1c605a (size before relaxing)
- .debug_str     0x00000000001d9fb4      0x194 ./Application/User/generated/GeneratedFont.o
-                                       0x64ce (size before relaxing)
- .debug_str     0x00000000001da148       0x75 ./Application/User/generated/Kerning_arialbd_23_4bpp.o
-                                       0x5477 (size before relaxing)
- .debug_str     0x00000000001da1bd       0x75 ./Application/User/generated/Kerning_arialbd_35_4bpp.o
-                                       0x5477 (size before relaxing)
- .debug_str     0x00000000001da232       0x75 ./Application/User/generated/Kerning_arialbd_60_4bpp.o
-                                       0x5477 (size before relaxing)
- .debug_str     0x00000000001da2a7       0x75 ./Application/User/generated/Kerning_verdana_10_4bpp.o
-                                       0x5477 (size before relaxing)
- .debug_str     0x00000000001da31c       0x5a ./Application/User/generated/LanguageGb.o
-                                       0x4e80 (size before relaxing)
- .debug_str     0x00000000001da376      0xbda ./Application/User/generated/Screen1ViewBase.o
-                                     0x1c0b6c (size before relaxing)
- .debug_str     0x00000000001daf50      0x152 ./Application/User/generated/Table_arialbd_23_4bpp.o
-                                       0x639e (size before relaxing)
- .debug_str     0x00000000001db0a2       0xc0 ./Application/User/generated/Table_arialbd_35_4bpp.o
-                                       0x639e (size before relaxing)
- .debug_str     0x00000000001db162       0xc0 ./Application/User/generated/Table_arialbd_60_4bpp.o
-                                       0x639e (size before relaxing)
- .debug_str     0x00000000001db222       0xc0 ./Application/User/generated/Table_verdana_10_4bpp.o
-                                       0x6381 (size before relaxing)
- .debug_str     0x00000000001db2e2      0x199 ./Application/User/generated/Texts.o
-                                       0xdb66 (size before relaxing)
- .debug_str     0x00000000001db47b      0x116 ./Application/User/generated/TypedTextDatabase.o
-                                       0x6724 (size before relaxing)
- .debug_str     0x00000000001db591       0xc1 ./Application/User/generated/contBatteryTempBase.o
-                                      0x103c3 (size before relaxing)
- .debug_str     0x00000000001db652      0x1e7 ./Application/User/generated/contSocGaugeBase.o
-                                       0xf16a (size before relaxing)
- .debug_str     0x00000000001db839       0xa6 ./Application/User/generated/contSpiritLevelBase.o
-                                       0xe285 (size before relaxing)
- .debug_str     0x00000000001db8df       0x57 ./Application/User/generated/image_Background.o
-                                       0x37e3 (size before relaxing)
- .debug_str     0x00000000001db936       0x5e ./Application/User/generated/image_BatteryTempSymbol.o
-                                       0x37f1 (size before relaxing)
- .debug_str     0x00000000001db994       0x56 ./Application/User/generated/image_DTCboxMid.o
-                                       0x37e1 (size before relaxing)
- .debug_str     0x00000000001db9ea       0x55 ./Application/User/generated/image_Distress.o
-                                       0x37df (size before relaxing)
- .debug_str     0x00000000001dba3f       0x58 ./Application/User/generated/image_DistressOff.o
-                                       0x37e5 (size before relaxing)
- .debug_str     0x00000000001dba97       0x5b ./Application/User/generated/image_DrvOrientation.o
-                                       0x37eb (size before relaxing)
- .debug_str     0x00000000001dbaf2       0x5e ./Application/User/generated/image_DrvOrientationOff.o
-                                       0x37f1 (size before relaxing)
- .debug_str     0x00000000001dbb50       0x5a ./Application/User/generated/image_LevelingFrame.o
-                                       0x37e9 (size before relaxing)
- .debug_str     0x00000000001dbbaa       0x5a ./Application/User/generated/image_MenuIndicator.o
-                                       0x37e9 (size before relaxing)
- .debug_str     0x00000000001dbc04       0x58 ./Application/User/generated/image_OverloadOff.o
-                                       0x37e5 (size before relaxing)
- .debug_str     0x00000000001dbc5c       0x57 ./Application/User/generated/image_OverloadOn.o
-                                       0x37e3 (size before relaxing)
- .debug_str     0x00000000001dbcb3       0x60 ./Application/User/generated/image_PltCapacityYellow70.o
-                                       0x37f5 (size before relaxing)
- .debug_str     0x00000000001dbd13       0x56 ./Application/User/generated/image_amberBack.o
-                                       0x37e1 (size before relaxing)
- .debug_str     0x00000000001dbd69       0x58 ./Application/User/generated/image_batteryFill.o
-                                       0x37e5 (size before relaxing)
- .debug_str     0x00000000001dbdc1       0x5d ./Application/User/generated/image_batteryFillFrame.o
-                                       0x37ef (size before relaxing)
- .debug_str     0x00000000001dbe1e       0x61 ./Application/User/generated/image_batteryFillFrameOpac.o
-                                       0x37f7 (size before relaxing)
- .debug_str     0x00000000001dbe7f       0x56 ./Application/User/generated/image_greenBack.o
-                                       0x37e1 (size before relaxing)
- .debug_str     0x00000000001dbed5       0x59 ./Application/User/generated/image_hazardSymbol.o
-                                       0x37e7 (size before relaxing)
- .debug_str     0x00000000001dbf2e       0x56 ./Application/User/generated/image_hourglass.o
-                                       0x37e1 (size before relaxing)
- .debug_str     0x00000000001dbf84       0x60 ./Application/User/generated/image_indicatorHolderGray.o
-                                       0x37f5 (size before relaxing)
- .debug_str     0x00000000001dbfe4       0x61 ./Application/User/generated/image_indicatorHolderGrayL.o
-                                       0x37f7 (size before relaxing)
- .debug_str     0x00000000001dc045       0x53 ./Application/User/generated/image_redDot.o
-                                       0x37db (size before relaxing)
- .debug_str     0x00000000001dc098       0x56 ./Application/User/generated/image_smallLine.o
-                                       0x37e1 (size before relaxing)
- .debug_str     0x00000000001dc0ee       0x55 ./Application/User/generated/image_topFrame.o
-                                       0x37df (size before relaxing)
- .debug_str     0x00000000001dc143       0x56 ./Application/User/generated/image_topGlass2.o
-                                       0x37e1 (size before relaxing)
- .debug_str     0x00000000001dc199       0x86 ./Application/User/gui/FrontendApplication.o
-                                       0xdd36 (size before relaxing)
- .debug_str     0x00000000001dc21f       0x53 ./Application/User/gui/Model.o
-                                     0x1b59ac (size before relaxing)
- .debug_str     0x00000000001dc272      0x14a ./Application/User/gui/Screen1Presenter.o
-                                     0x1bfdd9 (size before relaxing)
- .debug_str     0x00000000001dc3bc       0x93 ./Application/User/gui/Screen1View.o
-                                     0x1bfdcd (size before relaxing)
- .debug_str     0x00000000001dc44f       0x6d ./Application/User/gui/contBatteryTemp.o
-                                       0xfa78 (size before relaxing)
- .debug_str     0x00000000001dc4bc       0x67 ./Application/User/gui/contSocGauge.o
-                                       0xecd0 (size before relaxing)
- .debug_str     0x00000000001dc523       0x95 ./Application/User/gui/contSpiritLevel.o
-                                       0xdf98 (size before relaxing)
- .debug_str     0x00000000001dc5b8      0x499 ./Drivers/BSP/Components/mx25lm51245g/mx25lm51245g.o
-                                     0x1b4d90 (size before relaxing)
- .debug_str     0x00000000001dca51       0xed ./Drivers/CMSIS/system_stm32u5xx.o
-                                     0x1b2d61 (size before relaxing)
- .debug_str     0x00000000001dcb3e      0x8dc ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal.o
-                                     0x1b3e5b (size before relaxing)
- .debug_str     0x00000000001dd41a      0xe15 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc.o
-                                     0x1b40b6 (size before relaxing)
- .debug_str     0x00000000001de22f      0x256 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_cordic.o
-                                     0x1b311c (size before relaxing)
- .debug_str     0x00000000001de485      0x362 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_cortex.o
-                                     0x1b39e1 (size before relaxing)
- .debug_str     0x00000000001de7e7       0xe7 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_crc.o
-                                     0x1b2c73 (size before relaxing)
- .debug_str     0x00000000001de8ce       0x8a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_crc_ex.o
-                                     0x1b2c19 (size before relaxing)
- .debug_str     0x00000000001de958      0x2c1 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dac.o
-                                     0x1b34f7 (size before relaxing)
- .debug_str     0x00000000001dec19      0x26e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dac_ex.o
-                                     0x1b33bc (size before relaxing)
- .debug_str     0x00000000001dee87      0x7cf ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dcache.o
-                                     0x1b33e1 (size before relaxing)
- .debug_str     0x00000000001df656      0x323 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma.o
-                                     0x1b3108 (size before relaxing)
- .debug_str     0x00000000001df979      0x3a2 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma2d.o
-                                     0x1b327f (size before relaxing)
- .debug_str     0x00000000001dfd1b     0x11b5 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_fdcan.o
-                                     0x1b4166 (size before relaxing)
- .debug_str     0x00000000001e0ed0      0x2a7 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gpio.o
-                                     0x1b2d97 (size before relaxing)
- .debug_str     0x00000000001e1177      0x17d ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gpu2d.o
-                                     0x1b2cd4 (size before relaxing)
- .debug_str     0x00000000001e12f4      0x63e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash.o
-                                     0x1b36dc (size before relaxing)
- .debug_str     0x00000000001e1932      0xea9 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_i2c.o
-                                     0x1b3fce (size before relaxing)
- .debug_str     0x00000000001e27db      0x139 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_i2c_ex.o
-                                     0x1b31d2 (size before relaxing)
- .debug_str     0x00000000001e2914      0x66a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_icache.o
-                                     0x1b30c7 (size before relaxing)
- .debug_str     0x00000000001e2f7e      0x762 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_lptim.o
-                                     0x1b388c (size before relaxing)
- .debug_str     0x00000000001e36e0      0x414 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc.o
-                                     0x1b31bd (size before relaxing)
- .debug_str     0x00000000001e3af4      0x668 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_mdf.o
-                                     0x1b38f1 (size before relaxing)
- .debug_str     0x00000000001e415c      0x731 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ospi.o
-                                     0x1b3ace (size before relaxing)
- .debug_str     0x00000000001e488d      0x344 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pwr.o
-                                     0x1b2ef7 (size before relaxing)
- .debug_str     0x00000000001e4bd1      0x807 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pwr_ex.o
-                                     0x1b359b (size before relaxing)
- .debug_str     0x00000000001e53d8     0x129e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rcc.o
-                                     0x1b450b (size before relaxing)
- .debug_str     0x00000000001e6676     0x2add ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rcc_ex.o
-                                     0x1b5d1e (size before relaxing)
- .debug_str     0x00000000001e9153      0x16b ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng.o
-                                     0x1b2c70 (size before relaxing)
- .debug_str     0x00000000001e92be      0x35f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rtc.o
-                                     0x1b30a9 (size before relaxing)
- .debug_str     0x00000000001e961d      0xc92 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rtc_ex.o
-                                     0x1b3b87 (size before relaxing)
- .debug_str     0x00000000001ea2af      0x504 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_spi.o
-                                     0x1b3646 (size before relaxing)
- .debug_str     0x00000000001ea7b3      0x104 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_spi_ex.o
-                                     0x1b31d6 (size before relaxing)
- .debug_str     0x00000000001ea8b7      0xcaa ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_tim.o
-                                     0x1b41b7 (size before relaxing)
- .debug_str     0x00000000001eb561      0x84c ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_tim_ex.o
-                                     0x1b3e1e (size before relaxing)
- .debug_str     0x00000000001ebdad      0x93b ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_uart.o
-                                     0x1b3a39 (size before relaxing)
- .debug_str     0x00000000001ec6e8      0x303 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_uart_ex.o
-                                     0x1b34eb (size before relaxing)
- .debug_str     0x00000000001ec9eb       0xab ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_dlyb.o
-                                     0x1b2ac0 (size before relaxing)
- .debug_str     0x00000000001eca96     0x2e5b ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/cmsis_os2.o
-                                     0x1bbe4e (size before relaxing)
- .debug_str     0x00000000001ef8f1      0x197 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/list.o
-                                       0xb381 (size before relaxing)
- .debug_str     0x00000000001efa88      0xf63 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/port.o
-                                       0xa293 (size before relaxing)
- .debug_str     0x00000000001f09eb       0xcb ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/portasm.o
-                                       0x765f (size before relaxing)
- .debug_str     0x00000000001f0ab6      0x860 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/queue.o
-                                       0xda28 (size before relaxing)
- .debug_str     0x00000000001f1316     0x1133 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/tasks.o
-                                       0xe629 (size before relaxing)
- .debug_str     0x00000000001f2449      0x605 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/timers.o
-                                       0xdfb7 (size before relaxing)
- .debug_str     0x00000000001f2a4e      0x345 ./Middlewares/RTOS2/CMSIS/RTOS2/Heap/Heap_4/heap_4.o
-                                       0xc85b (size before relaxing)
+.debug_str      0x0000000000000000   0x1f3256
+ .debug_str     0x0000000000000000   0x1b275c ./Application/User/Core/adc.o
+                                     0x1b3a77 (size before relaxing)
+ .debug_str     0x00000000001b275c     0x5aca ./Application/User/Core/app_freertos.o
+                                     0x1b8626 (size before relaxing)
+ .debug_str     0x00000000001b8226      0x183 ./Application/User/Core/cordic.o
+                                     0x1b32bb (size before relaxing)
+ .debug_str     0x00000000001b83a9      0x1cd ./Application/User/Core/crc.o
+                                     0x1b2fb8 (size before relaxing)
+ .debug_str     0x00000000001b8576      0x35a ./Application/User/Core/dac.o
+                                     0x1b3930 (size before relaxing)
+ .debug_str     0x00000000001b88d0      0x1d4 ./Application/User/Core/dcache.o
+                                     0x1b3027 (size before relaxing)
+ .debug_str     0x00000000001b8aa4      0x267 ./Application/User/Core/dma2d.o
+                                     0x1b30aa (size before relaxing)
+ .debug_str     0x00000000001b8d0b      0xc52 ./Application/User/Core/fdcan.o
+                                     0x1b3f97 (size before relaxing)
+ .debug_str     0x00000000001b995d       0x7b ./Application/User/Core/gpio.o
+                                     0x1b3643 (size before relaxing)
+ .debug_str     0x00000000001b99d8      0x140 ./Application/User/Core/gpu2d.o
+                                     0x1b3705 (size before relaxing)
+ .debug_str     0x00000000001b9b18      0x2cd ./Application/User/Core/hash.o
+                                     0x1b3436 (size before relaxing)
+ .debug_str     0x00000000001b9de5      0x2e6 ./Application/User/Core/i2c.o
+                                     0x1b3952 (size before relaxing)
+ .debug_str     0x00000000001ba0cb       0x88 ./Application/User/Core/icache.o
+                                     0x1b2be7 (size before relaxing)
+ .debug_str     0x00000000001ba153      0x2f2 ./Application/User/Core/lptim.o
+                                     0x1b3911 (size before relaxing)
+ .debug_str     0x00000000001ba445      0x263 ./Application/User/Core/ltdc.o
+                                     0x1b3d5f (size before relaxing)
+ .debug_str     0x00000000001ba6a8      0x75b ./Application/User/Core/main.o
+                                     0x1b3e1d (size before relaxing)
+ .debug_str     0x00000000001bae03      0x437 ./Application/User/Core/mdf.o
+                                     0x1b3ab9 (size before relaxing)
+ .debug_str     0x00000000001bb23a     0x1c50 ./Application/User/Core/octospi.o
+                                     0x1b52c4 (size before relaxing)
+ .debug_str     0x00000000001bce8a      0x132 ./Application/User/Core/rng.o
+                                     0x1b332c (size before relaxing)
+ .debug_str     0x00000000001bcfbc      0x3e6 ./Application/User/Core/rtc.o
+                                     0x1b36aa (size before relaxing)
+ .debug_str     0x00000000001bd3a2      0x34f ./Application/User/Core/spi.o
+                                     0x1b39b8 (size before relaxing)
+ .debug_str     0x00000000001bd6f1       0x62 ./Application/User/Core/stm32u5xx_hal_msp.o
+                                     0x1b3574 (size before relaxing)
+ .debug_str     0x00000000001bd753      0x118 ./Application/User/Core/stm32u5xx_hal_timebase_tim.o
+                                     0x1b3bda (size before relaxing)
+ .debug_str     0x00000000001bd86b      0x1ae ./Application/User/Core/stm32u5xx_it.o
+                                     0x1b3b2f (size before relaxing)
+ .debug_str     0x00000000001bda19     0x25b4 ./Application/User/Core/syscalls.o
+                                       0x98e6 (size before relaxing)
+ .debug_str     0x00000000001bffcd       0x78 ./Application/User/Core/sysmem.o
+                                       0x609d (size before relaxing)
+ .debug_str     0x00000000001c0045      0x477 ./Application/User/Core/tim.o
+                                     0x1b3a52 (size before relaxing)
+ .debug_str     0x00000000001c04bc      0x2a4 ./Application/User/Core/usart.o
+                                     0x1b3963 (size before relaxing)
+ .debug_str     0x00000000001c0760       0x37 ./Application/User/Core/usb_otg.o
+                                     0x1b2b62 (size before relaxing)
+ .debug_str     0x00000000001c0797       0x41 ./Application/User/Startup/startup_stm32u599njhxq.o
+                                         0x8d (size before relaxing)
+ .debug_str     0x00000000001c07d8       0x80 ./Application/User/TouchGFX/App/app_touchgfx.o
+                                       0x2ebc (size before relaxing)
+ .debug_str     0x00000000001c0858     0x3935 ./Application/User/TouchGFX/target/STM32TouchController.o
+                                     0x1b72d8 (size before relaxing)
+ .debug_str     0x00000000001c418d      0x157 ./Application/User/TouchGFX/target/TouchGFXGPIO.o
+                                     0x1b5973 (size before relaxing)
+ .debug_str     0x00000000001c42e4     0x8fd2 ./Application/User/TouchGFX/target/TouchGFXHAL.o
+                                      0x13f95 (size before relaxing)
+ .debug_str     0x00000000001cd2b6      0x469 ./Application/User/TouchGFX/target/generated/OSWrappers.o
+                                       0x9809 (size before relaxing)
+ .debug_str     0x00000000001cd71f      0x7fb ./Application/User/TouchGFX/target/generated/STM32DMA.o
+                                     0x1c0409 (size before relaxing)
+ .debug_str     0x00000000001cdf1a     0x6a2d ./Application/User/TouchGFX/target/generated/TouchGFXConfiguration.o
+                                     0x1c7562 (size before relaxing)
+ .debug_str     0x00000000001d4947      0x241 ./Application/User/TouchGFX/target/generated/TouchGFXGeneratedHAL.o
+                                     0x1c36a5 (size before relaxing)
+ .debug_str     0x00000000001d4b88      0x88e ./Application/User/TouchGFX/target/generated/nema_hal.o
+                                     0x1b50de (size before relaxing)
+ .debug_str     0x00000000001d5416       0xdc ./Application/User/generated/ApplicationFontProvider.o
+                                       0x60ca (size before relaxing)
+ .debug_str     0x00000000001d54f2      0x25e ./Application/User/generated/BitmapDatabase.o
+                                       0x62d2 (size before relaxing)
+ .debug_str     0x00000000001d5750      0xf80 ./Application/User/generated/CachedFont.o
+                                       0x7148 (size before relaxing)
+ .debug_str     0x00000000001d66d0      0x5ee ./Application/User/generated/FontCache.o
+                                       0xd364 (size before relaxing)
+ .debug_str     0x00000000001d6cbe       0x8c ./Application/User/generated/Font_arialbd_23_4bpp_0.o
+                                       0x4d6f (size before relaxing)
+ .debug_str     0x00000000001d6d4a       0x8c ./Application/User/generated/Font_arialbd_35_4bpp_0.o
+                                       0x4d6f (size before relaxing)
+ .debug_str     0x00000000001d6dd6       0x8c ./Application/User/generated/Font_arialbd_60_4bpp_0.o
+                                       0x4d6f (size before relaxing)
+ .debug_str     0x00000000001d6e62       0x8c ./Application/User/generated/Font_verdana_10_4bpp_0.o
+                                       0x4d6f (size before relaxing)
+ .debug_str     0x00000000001d6eee     0x3199 ./Application/User/generated/FrontendApplicationBase.o
+                                     0x1c6085 (size before relaxing)
+ .debug_str     0x00000000001da087      0x1a9 ./Application/User/generated/GeneratedFont.o
+                                       0x64f9 (size before relaxing)
+ .debug_str     0x00000000001da230       0x8a ./Application/User/generated/Kerning_arialbd_23_4bpp.o
+                                       0x54a2 (size before relaxing)
+ .debug_str     0x00000000001da2ba       0x8a ./Application/User/generated/Kerning_arialbd_35_4bpp.o
+                                       0x54a2 (size before relaxing)
+ .debug_str     0x00000000001da344       0x8a ./Application/User/generated/Kerning_arialbd_60_4bpp.o
+                                       0x54a2 (size before relaxing)
+ .debug_str     0x00000000001da3ce       0x8a ./Application/User/generated/Kerning_verdana_10_4bpp.o
+                                       0x54a2 (size before relaxing)
+ .debug_str     0x00000000001da458       0x6f ./Application/User/generated/LanguageGb.o
+                                       0x4eab (size before relaxing)
+ .debug_str     0x00000000001da4c7      0xbef ./Application/User/generated/Screen1ViewBase.o
+                                     0x1c0b97 (size before relaxing)
+ .debug_str     0x00000000001db0b6      0x167 ./Application/User/generated/Table_arialbd_23_4bpp.o
+                                       0x63c9 (size before relaxing)
+ .debug_str     0x00000000001db21d       0xd5 ./Application/User/generated/Table_arialbd_35_4bpp.o
+                                       0x63c9 (size before relaxing)
+ .debug_str     0x00000000001db2f2       0xd5 ./Application/User/generated/Table_arialbd_60_4bpp.o
+                                       0x63c9 (size before relaxing)
+ .debug_str     0x00000000001db3c7       0xd5 ./Application/User/generated/Table_verdana_10_4bpp.o
+                                       0x63ac (size before relaxing)
+ .debug_str     0x00000000001db49c      0x1ae ./Application/User/generated/Texts.o
+                                       0xdb91 (size before relaxing)
+ .debug_str     0x00000000001db64a      0x12b ./Application/User/generated/TypedTextDatabase.o
+                                       0x674f (size before relaxing)
+ .debug_str     0x00000000001db775       0xd6 ./Application/User/generated/contBatteryTempBase.o
+                                      0x103ee (size before relaxing)
+ .debug_str     0x00000000001db84b      0x1fc ./Application/User/generated/contSocGaugeBase.o
+                                       0xf195 (size before relaxing)
+ .debug_str     0x00000000001dba47       0xbb ./Application/User/generated/contSpiritLevelBase.o
+                                       0xe2b0 (size before relaxing)
+ .debug_str     0x00000000001dbb02       0x6c ./Application/User/generated/image_Background.o
+                                       0x380e (size before relaxing)
+ .debug_str     0x00000000001dbb6e       0x73 ./Application/User/generated/image_BatteryTempSymbol.o
+                                       0x381c (size before relaxing)
+ .debug_str     0x00000000001dbbe1       0x6b ./Application/User/generated/image_DTCboxMid.o
+                                       0x380c (size before relaxing)
+ .debug_str     0x00000000001dbc4c       0x6a ./Application/User/generated/image_Distress.o
+                                       0x380a (size before relaxing)
+ .debug_str     0x00000000001dbcb6       0x6d ./Application/User/generated/image_DistressOff.o
+                                       0x3810 (size before relaxing)
+ .debug_str     0x00000000001dbd23       0x70 ./Application/User/generated/image_DrvOrientation.o
+                                       0x3816 (size before relaxing)
+ .debug_str     0x00000000001dbd93       0x73 ./Application/User/generated/image_DrvOrientationOff.o
+                                       0x381c (size before relaxing)
+ .debug_str     0x00000000001dbe06       0x6f ./Application/User/generated/image_LevelingFrame.o
+                                       0x3814 (size before relaxing)
+ .debug_str     0x00000000001dbe75       0x6f ./Application/User/generated/image_MenuIndicator.o
+                                       0x3814 (size before relaxing)
+ .debug_str     0x00000000001dbee4       0x6d ./Application/User/generated/image_OverloadOff.o
+                                       0x3810 (size before relaxing)
+ .debug_str     0x00000000001dbf51       0x6c ./Application/User/generated/image_OverloadOn.o
+                                       0x380e (size before relaxing)
+ .debug_str     0x00000000001dbfbd       0x75 ./Application/User/generated/image_PltCapacityYellow70.o
+                                       0x3820 (size before relaxing)
+ .debug_str     0x00000000001dc032       0x6b ./Application/User/generated/image_amberBack.o
+                                       0x380c (size before relaxing)
+ .debug_str     0x00000000001dc09d       0x6d ./Application/User/generated/image_batteryFill.o
+                                       0x3810 (size before relaxing)
+ .debug_str     0x00000000001dc10a       0x72 ./Application/User/generated/image_batteryFillFrame.o
+                                       0x381a (size before relaxing)
+ .debug_str     0x00000000001dc17c       0x76 ./Application/User/generated/image_batteryFillFrameOpac.o
+                                       0x3822 (size before relaxing)
+ .debug_str     0x00000000001dc1f2       0x6b ./Application/User/generated/image_greenBack.o
+                                       0x380c (size before relaxing)
+ .debug_str     0x00000000001dc25d       0x6e ./Application/User/generated/image_hazardSymbol.o
+                                       0x3812 (size before relaxing)
+ .debug_str     0x00000000001dc2cb       0x6b ./Application/User/generated/image_hourglass.o
+                                       0x380c (size before relaxing)
+ .debug_str     0x00000000001dc336       0x75 ./Application/User/generated/image_indicatorHolderGray.o
+                                       0x3820 (size before relaxing)
+ .debug_str     0x00000000001dc3ab       0x76 ./Application/User/generated/image_indicatorHolderGrayL.o
+                                       0x3822 (size before relaxing)
+ .debug_str     0x00000000001dc421       0x68 ./Application/User/generated/image_redDot.o
+                                       0x3806 (size before relaxing)
+ .debug_str     0x00000000001dc489       0x6b ./Application/User/generated/image_smallLine.o
+                                       0x380c (size before relaxing)
+ .debug_str     0x00000000001dc4f4       0x6a ./Application/User/generated/image_topFrame.o
+                                       0x380a (size before relaxing)
+ .debug_str     0x00000000001dc55e       0x6b ./Application/User/generated/image_topGlass2.o
+                                       0x380c (size before relaxing)
+ .debug_str     0x00000000001dc5c9       0x9b ./Application/User/gui/FrontendApplication.o
+                                       0xdd61 (size before relaxing)
+ .debug_str     0x00000000001dc664       0x68 ./Application/User/gui/Model.o
+                                     0x1b59d7 (size before relaxing)
+ .debug_str     0x00000000001dc6cc      0x15f ./Application/User/gui/Screen1Presenter.o
+                                     0x1bfe04 (size before relaxing)
+ .debug_str     0x00000000001dc82b       0xa8 ./Application/User/gui/Screen1View.o
+                                     0x1bfdf8 (size before relaxing)
+ .debug_str     0x00000000001dc8d3       0x82 ./Application/User/gui/contBatteryTemp.o
+                                       0xfaa3 (size before relaxing)
+ .debug_str     0x00000000001dc955       0x7c ./Application/User/gui/contSocGauge.o
+                                       0xecfb (size before relaxing)
+ .debug_str     0x00000000001dc9d1       0xaa ./Application/User/gui/contSpiritLevel.o
+                                       0xdfc3 (size before relaxing)
+ .debug_str     0x00000000001dca7b      0x499 ./Drivers/BSP/Components/mx25lm51245g/mx25lm51245g.o
+                                     0x1b4da6 (size before relaxing)
+ .debug_str     0x00000000001dcf14       0xed ./Drivers/CMSIS/system_stm32u5xx.o
+                                     0x1b2d77 (size before relaxing)
+ .debug_str     0x00000000001dd001      0x8dc ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal.o
+                                     0x1b3e71 (size before relaxing)
+ .debug_str     0x00000000001dd8dd      0xe15 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_adc.o
+                                     0x1b40cc (size before relaxing)
+ .debug_str     0x00000000001de6f2      0x256 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_cordic.o
+                                     0x1b3132 (size before relaxing)
+ .debug_str     0x00000000001de948      0x362 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_cortex.o
+                                     0x1b39f7 (size before relaxing)
+ .debug_str     0x00000000001decaa       0xe7 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_crc.o
+                                     0x1b2c89 (size before relaxing)
+ .debug_str     0x00000000001ded91       0x8a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_crc_ex.o
+                                     0x1b2c2f (size before relaxing)
+ .debug_str     0x00000000001dee1b      0x2c1 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dac.o
+                                     0x1b350d (size before relaxing)
+ .debug_str     0x00000000001df0dc      0x26e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dac_ex.o
+                                     0x1b33d2 (size before relaxing)
+ .debug_str     0x00000000001df34a      0x7cf ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dcache.o
+                                     0x1b33f7 (size before relaxing)
+ .debug_str     0x00000000001dfb19      0x323 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma.o
+                                     0x1b311e (size before relaxing)
+ .debug_str     0x00000000001dfe3c      0x3a2 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_dma2d.o
+                                     0x1b3295 (size before relaxing)
+ .debug_str     0x00000000001e01de     0x11b5 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_fdcan.o
+                                     0x1b417c (size before relaxing)
+ .debug_str     0x00000000001e1393      0x2a7 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gpio.o
+                                     0x1b2dad (size before relaxing)
+ .debug_str     0x00000000001e163a      0x17d ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_gpu2d.o
+                                     0x1b2cea (size before relaxing)
+ .debug_str     0x00000000001e17b7      0x63e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_hash.o
+                                     0x1b36f2 (size before relaxing)
+ .debug_str     0x00000000001e1df5      0xea9 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_i2c.o
+                                     0x1b3fe4 (size before relaxing)
+ .debug_str     0x00000000001e2c9e      0x139 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_i2c_ex.o
+                                     0x1b31e8 (size before relaxing)
+ .debug_str     0x00000000001e2dd7      0x66a ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_icache.o
+                                     0x1b30dd (size before relaxing)
+ .debug_str     0x00000000001e3441      0x762 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_lptim.o
+                                     0x1b38a2 (size before relaxing)
+ .debug_str     0x00000000001e3ba3      0x414 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ltdc.o
+                                     0x1b31d3 (size before relaxing)
+ .debug_str     0x00000000001e3fb7      0x668 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_mdf.o
+                                     0x1b3907 (size before relaxing)
+ .debug_str     0x00000000001e461f      0x731 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_ospi.o
+                                     0x1b3ae4 (size before relaxing)
+ .debug_str     0x00000000001e4d50      0x344 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pwr.o
+                                     0x1b2f0d (size before relaxing)
+ .debug_str     0x00000000001e5094      0x807 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_pwr_ex.o
+                                     0x1b35b1 (size before relaxing)
+ .debug_str     0x00000000001e589b     0x129e ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rcc.o
+                                     0x1b4521 (size before relaxing)
+ .debug_str     0x00000000001e6b39     0x2add ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rcc_ex.o
+                                     0x1b5d34 (size before relaxing)
+ .debug_str     0x00000000001e9616      0x16b ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rng.o
+                                     0x1b2c86 (size before relaxing)
+ .debug_str     0x00000000001e9781      0x35f ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rtc.o
+                                     0x1b30bf (size before relaxing)
+ .debug_str     0x00000000001e9ae0      0xc92 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_rtc_ex.o
+                                     0x1b3b9d (size before relaxing)
+ .debug_str     0x00000000001ea772      0x504 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_spi.o
+                                     0x1b365c (size before relaxing)
+ .debug_str     0x00000000001eac76      0x104 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_spi_ex.o
+                                     0x1b31ec (size before relaxing)
+ .debug_str     0x00000000001ead7a      0xcaa ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_tim.o
+                                     0x1b41cd (size before relaxing)
+ .debug_str     0x00000000001eba24      0x84c ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_tim_ex.o
+                                     0x1b3e34 (size before relaxing)
+ .debug_str     0x00000000001ec270      0x93b ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_uart.o
+                                     0x1b3a4f (size before relaxing)
+ .debug_str     0x00000000001ecbab      0x303 ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_hal_uart_ex.o
+                                     0x1b3501 (size before relaxing)
+ .debug_str     0x00000000001eceae       0xab ./Drivers/STM32U5xx_HAL_Driver/stm32u5xx_ll_dlyb.o
+                                     0x1b2ad6 (size before relaxing)
+ .debug_str     0x00000000001ecf59     0x2e5b ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/cmsis_os2.o
+                                     0x1bbe64 (size before relaxing)
+ .debug_str     0x00000000001efdb4      0x197 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/list.o
+                                       0xb397 (size before relaxing)
+ .debug_str     0x00000000001eff4b      0xf63 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/port.o
+                                       0xa2a9 (size before relaxing)
+ .debug_str     0x00000000001f0eae       0xcb ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/portasm.o
+                                       0x7675 (size before relaxing)
+ .debug_str     0x00000000001f0f79      0x860 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/queue.o
+                                       0xda3e (size before relaxing)
+ .debug_str     0x00000000001f17d9     0x1133 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/tasks.o
+                                       0xe63f (size before relaxing)
+ .debug_str     0x00000000001f290c      0x605 ./Middlewares/RTOS2/CMSIS/RTOS2/Core/TZ_Non_Supported/timers.o
+                                       0xdfcd (size before relaxing)
+ .debug_str     0x00000000001f2f11      0x345 ./Middlewares/RTOS2/CMSIS/RTOS2/Heap/Heap_4/heap_4.o
+                                       0xc871 (size before relaxing)
 
 .debug_frame    0x0000000000000000    0x18c64
  .debug_frame   0x0000000000000000       0xa4 ./Application/User/Core/adc.o
@@ -39408,7 +39408,7 @@ LOAD C:/ST/STM32CubeIDE_1.8.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_frame   0x0000000000018c2c       0x38 C:/ST/STM32CubeIDE_1.8.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
 
 .debug_line_str
-                0x0000000000000000       0x6b
+                0x0000000000000000       0x81
  .debug_line_str
-                0x0000000000000000       0x6b ./Application/User/Startup/startup_stm32u599njhxq.o
-                                         0x84 (size before relaxing)
+                0x0000000000000000       0x81 ./Application/User/Startup/startup_stm32u599njhxq.o
+                                         0x9a (size before relaxing)

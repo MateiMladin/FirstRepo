@@ -12,6 +12,6 @@
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	16	static
 ../../TouchGFX/gui/include/gui/containers/contSocGauge.hpp:10:13:contSocGauge::~contSocGauge()	16	static
 ../../TouchGFX/gui/include/gui/containers/contSocGauge.hpp:10:13:virtual contSocGauge::~contSocGauge()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/gui/src/containers/contSocGauge.cpp:3:1:contSocGauge::contSocGauge()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/gui/src/containers/contSocGauge.cpp:8:6:virtual void contSocGauge::initialize()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/gui/src/containers/contSocGauge.cpp:14:6:virtual void contSocGauge::updateCanValue(uint8_t)	16	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/gui/src/containers/contSocGauge.cpp:3:1:contSocGauge::contSocGauge()	16	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/gui/src/containers/contSocGauge.cpp:8:6:virtual void contSocGauge::initialize()	16	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/gui/src/containers/contSocGauge.cpp:14:6:virtual void contSocGauge::updateCanValue(uint8_t)	16	static

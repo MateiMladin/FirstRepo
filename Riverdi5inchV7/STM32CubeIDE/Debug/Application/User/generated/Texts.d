@@ -1,5 +1,5 @@
 Application/User/generated/Texts.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/texts/src/Texts.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/texts/src/Texts.cpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/TextProvider.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Unicode.hpp \

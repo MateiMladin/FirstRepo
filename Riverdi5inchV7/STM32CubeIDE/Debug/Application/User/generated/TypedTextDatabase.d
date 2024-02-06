@@ -1,5 +1,5 @@
 Application/User/generated/TypedTextDatabase.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/texts/src/TypedTextDatabase.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/texts/src/TypedTextDatabase.cpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Unicode.hpp \

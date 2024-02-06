@@ -1,5 +1,5 @@
 Application/User/gui/contSpiritLevel.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/gui/src/containers/contSpiritLevel.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/gui/src/containers/contSpiritLevel.cpp \
  ../../TouchGFX/gui/include/gui/containers/contSpiritLevel.hpp \
  ../../TouchGFX/generated/gui_generated/include/gui_generated/containers/contSpiritLevelBase.hpp \
  ../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp \

@@ -1,4 +1,4 @@
 Application/User/generated/image_LevelingFrame.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/images/src/image_LevelingFrame.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/images/src/image_LevelingFrame.cpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp:

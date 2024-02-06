@@ -1,5 +1,5 @@
 Application/User/generated/contBatteryTempBase.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/containers/contBatteryTempBase.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/containers/contBatteryTempBase.cpp \
  ../../TouchGFX/generated/gui_generated/include/gui_generated/containers/contBatteryTempBase.hpp \
  ../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp \
  ../../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp \

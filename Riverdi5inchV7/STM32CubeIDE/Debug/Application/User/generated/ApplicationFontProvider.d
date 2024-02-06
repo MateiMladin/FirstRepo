@@ -1,5 +1,5 @@
 Application/User/generated/ApplicationFontProvider.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/fonts/src/ApplicationFontProvider.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/fonts/src/ApplicationFontProvider.cpp \
  ../../TouchGFX/generated/fonts/include/fonts/ApplicationFontProvider.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/FontManager.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp \

@@ -1,5 +1,5 @@
 Application/User/gui/Model.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/gui/src/model/Model.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/gui/src/model/Model.cpp \
  ../../TouchGFX/gui/include/gui/model/Model.hpp \
  ../../TouchGFX/gui/include/gui/model/ModelListener.hpp \
  ../../Core/Inc/fdcan.h ../../Core/Inc/main.h \

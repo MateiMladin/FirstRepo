@@ -5,7 +5,7 @@
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	16	static
 ../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:Screen1View::~Screen1View()	16	static
 ../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:virtual Screen1View::~Screen1View()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:9:1:Screen1View::Screen1View()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:14:6:virtual void Screen1View::setupScreen()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:19:6:virtual void Screen1View::tearDownScreen()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:24:6:virtual void Screen1View::updateCanValue(DataBase_t**)	32	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:9:1:Screen1View::Screen1View()	16	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:14:6:virtual void Screen1View::setupScreen()	16	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:19:6:virtual void Screen1View::tearDownScreen()	16	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:24:6:virtual void Screen1View::updateCanValue(DataBase_t**)	32	static

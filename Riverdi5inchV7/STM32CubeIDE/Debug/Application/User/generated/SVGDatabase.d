@@ -1,5 +1,5 @@
 Application/User/generated/SVGDatabase.o: \
- C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/images/src/SVGDatabase.cpp \
+ C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/images/src/SVGDatabase.cpp \
  ../../TouchGFX/generated/images/include/images/SVGDatabase.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp \

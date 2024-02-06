@@ -79,10 +79,10 @@
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AnimatedImage.hpp:70:5:touchgfx::AnimatedImage::AnimatedImage(const uint8_t&)	32	static
 ../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:touchgfx::View<Screen1Presenter>::~View()	16	static
 ../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:virtual touchgfx::View<Screen1Presenter>::~View()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/screen1_screen/Screen1ViewBase.cpp:9:1:Screen1ViewBase::Screen1ViewBase()	472	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/screen1_screen/Screen1ViewBase.cpp:140:1:Screen1ViewBase::~Screen1ViewBase()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/screen1_screen/Screen1ViewBase.cpp:140:1:virtual Screen1ViewBase::~Screen1ViewBase()	16	static
-C://TouchGFXProjects/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/screen1_screen/Screen1ViewBase.cpp:145:6:virtual void Screen1ViewBase::setupScreen()	16	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/screen1_screen/Screen1ViewBase.cpp:9:1:Screen1ViewBase::Screen1ViewBase()	472	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/screen1_screen/Screen1ViewBase.cpp:140:1:Screen1ViewBase::~Screen1ViewBase()	16	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/screen1_screen/Screen1ViewBase.cpp:140:1:virtual Screen1ViewBase::~Screen1ViewBase()	16	static
+C:/TouchGFXProjects/GitProjects/FirstRepo/Riverdi5inchV7/TouchGFX/generated/gui_generated/src/screen1_screen/Screen1ViewBase.cpp:145:6:virtual void Screen1ViewBase::setupScreen()	16	static
 ../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:39:5:touchgfx::View<T>::View() [with T = Screen1Presenter]	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:125:7:touchgfx::TextAreaWithTwoWildcards::~TextAreaWithTwoWildcards()	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:125:7:virtual touchgfx::TextAreaWithTwoWildcards::~TextAreaWithTwoWildcards()	16	static
